@@ -1,6 +1,8 @@
 ### Hi!
 I am an aspiring Data Scientist, with dreams of applying my data science knowledge and skills to practical urban planning research and improvements, and towards building sustainable ‘circle economy’-based societies.
 
+This is the place to find all my school projects, and future personal projects.
+
 <!--
 **freinric/freinric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
